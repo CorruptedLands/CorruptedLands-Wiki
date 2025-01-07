@@ -7,6 +7,8 @@
 ## Skyblock
 
 * [Skyblock: How to play](skyblock/skyblock-how-to-play.md)
+* [Content](skyblock/content/README.md)
+  * [Ores & Generators](skyblock/content/ores-and-generators.md)
 
 ## useful links
 
