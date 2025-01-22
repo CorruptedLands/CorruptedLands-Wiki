@@ -12,6 +12,7 @@
   * [Custom Machines](skyblock/content/custom-machines/README.md)
     * [Ingot Duplicator](skyblock/content/custom-machines/ingot-duplicator.md)
 * [🎣 Fishing](skyblock/fishing/README.md)
+  * [🐡 Fishing Association](skyblock/fishing/fishing-association.md)
   * [🐟 Fish](skyblock/fishing/fish.md)
 
 ## useful links
