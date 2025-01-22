@@ -25,4 +25,4 @@ To unlock the recipe for the ingot duplicator, you need to reach level 9 in the 
 
 \[recipe-requirements]
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Ingot Duplicator In-Game</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ingot Duplicator In-Game</p></figcaption></figure>
