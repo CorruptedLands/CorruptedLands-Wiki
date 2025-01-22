@@ -1,8 +1,8 @@
 ---
+icon: copy
 description: >-
   This page contains all the information you need about the Ingo Duplicator,
   including its features, usage, and benefits.
-icon: copy
 ---
 
 # Ingot Duplicator
@@ -15,7 +15,7 @@ Once the duplication timer reaches 0, click the block again to collect the dupli
 
 \[image\_of\_the\_item]
 
-<table><thead><tr><th>Rarity</th><th>Timer</th><th data-hidden></th></tr></thead><tbody><tr><td>Common</td><td>5 minutes</td><td></td></tr><tr><td>Uncommon</td><td>10 minutes</td><td></td></tr><tr><td>Epic</td><td>25 minutes</td><td></td></tr><tr><td>Rare</td><td>35 minutes</td><td></td></tr><tr><td>Legendary</td><td>1 hour</td><td></td></tr><tr><td>Mythical</td><td>24 hours</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Rarity</th><th>Timer</th><th data-hidden></th></tr></thead><tbody><tr><td>Common</td><td>5 minutes</td><td></td></tr><tr><td>Uncommon</td><td>15 minutes</td><td></td></tr><tr><td>Epic</td><td>30 minutes</td><td></td></tr><tr><td>Rare</td><td>60 minutes</td><td></td></tr><tr><td>Legendary</td><td>2 hours</td><td></td></tr><tr><td>Mythical</td><td>-</td><td></td></tr></tbody></table>
 
 ## <mark style="color:purple;">Obtain:</mark>
 
