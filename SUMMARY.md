@@ -2,7 +2,7 @@
 
 ## General
 
-* [Sync Account](README.md)
+* [🎮 Play & Sync Account](README.md)
 
 ## Skyblock
 
