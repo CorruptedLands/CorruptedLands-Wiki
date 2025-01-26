@@ -19,7 +19,7 @@ coverY: 0
 
 4. Connect to the server. Once connected, the resource pack will automatically load, and you'll be ready to explore the <mark style="color:purple;">Corrupted Lands!</mark>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Corrupted Lands</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Corrupted Lands</p></figcaption></figure>
 
 Unfortunately, we do not support the Bedrock version of Minecraft or older Java versions. Please ensure you're using the Java version mentioned above to join our server.
 
