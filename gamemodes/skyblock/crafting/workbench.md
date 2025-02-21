@@ -2,7 +2,7 @@
 description: >-
   This page contains all the information you need about the Workbench, including
   its features, usage, and benefits.
-cover: ../../.gitbook/assets/Screenshot 2025-01-26 115345.png
+cover: ../../../.gitbook/assets/Screenshot 2025-01-26 115345.png
 coverY: 0
 ---
 
@@ -26,4 +26,4 @@ The workbench makes crafting easier than the regular crafting table. Just keep t
 
 The workbench is unlocked by default for all users. You can get it in three ways: interact with Xavier for the first time, create your own island (it’s in the chest), or use <mark style="color:purple;">/kit starter</mark>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Workbench In-Game</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Workbench In-Game</p></figcaption></figure>

@@ -1,6 +1,6 @@
 ---
 description: This page provides all the essential information about fishing on the server.
-cover: ../../.gitbook/assets/Screenshot 2025-01-23 222725.png
+cover: ../../../.gitbook/assets/Screenshot 2025-01-23 222725.png
 coverY: 0
 ---
 
