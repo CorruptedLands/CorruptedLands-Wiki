@@ -8,8 +8,9 @@
 
 * [🌍 Skyblock](gamemodes/skyblock/README.md)
   * [❓ Skyblock: How to play](gamemodes/skyblock/skyblock-how-to-play.md)
-  * [💎 Content](gamemodes/skyblock/content/README.md)
-    * [Ores & Generators](gamemodes/skyblock/content/ores-and-generators.md)
+  * [☘️ Island](gamemodes/skyblock/island/README.md)
+    * [🌋 Generators](gamemodes/skyblock/island/generators.md)
+    * [⏫ Island Upgrades](gamemodes/skyblock/island/island-upgrades.md)
   * [🎣 Fishing](gamemodes/skyblock/fishing/README.md)
     * [🐡 Fishing Association](gamemodes/skyblock/fishing/fishing-association.md)
     * [🐟 Fish](gamemodes/skyblock/fishing/fish.md)

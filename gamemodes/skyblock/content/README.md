@@ -1,6 +1,0 @@
----
-icon: box-archive
----
-
-# Content
-

@@ -20,17 +20,7 @@ layout:
     visible: true
 ---
 
-# Ores & Generators
-
-## <mark style="color:purple;">Ores</mark>
-
-Here is a list of all the available ores and their rarities:
-
-<table data-full-width="false"><thead><tr><th>Common</th><th>Uncommon</th><th>Epic</th><th>Rare</th><th>Legendary</th><th>Mythical</th></tr></thead><tbody><tr><td>Coal</td><td>Amber</td><td>Amethyst</td><td>Adamantium</td><td>Arcanite</td><td>Obsidium</td></tr><tr><td>Copper</td><td>Gold</td><td>Emerald</td><td>Diamond</td><td>Mythril</td><td></td></tr><tr><td>Iron</td><td>Jade</td><td>Opal</td><td>Iridium</td><td>Onyx</td><td></td></tr><tr><td>Lapis</td><td>Malachite</td><td>Ruby</td><td>Platinium</td><td></td><td></td></tr><tr><td>Redstone</td><td></td><td>Sapphire</td><td>Titanium</td><td></td><td></td></tr><tr><td>Silver</td><td></td><td></td><td>Tungsten</td><td></td><td></td></tr></tbody></table>
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-19 010836.png" alt=""><figcaption><p>Obsidium Ore Item</p></figcaption></figure>
-
-When an ore is broken, it drops the raw version of the ore. You can smelt it into an ingot, which can then be used to craft blocks, tools, and other items.
+# 🌋 Generators
 
 ## <mark style="color:purple;">Generators</mark>
 
