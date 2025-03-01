@@ -11,6 +11,7 @@
   * [☘️ Island](gamemodes/skyblock/island/README.md)
     * [🌋 Generators](gamemodes/skyblock/island/generators.md)
     * [⏫ Island Upgrades](gamemodes/skyblock/island/island-upgrades.md)
+    * [🥕 Crop Mastery](gamemodes/skyblock/island/crop-mastery.md)
   * [🎣 Fishing](gamemodes/skyblock/fishing/README.md)
     * [🐡 Fishing Association](gamemodes/skyblock/fishing/fishing-association.md)
     * [🐟 Fish](gamemodes/skyblock/fishing/fish.md)
