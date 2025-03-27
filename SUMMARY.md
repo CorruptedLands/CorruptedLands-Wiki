@@ -19,6 +19,7 @@
     * [🔨 Workbench](gamemodes/skyblock/crafting/workbench.md)
     * [🍳 Smoker](gamemodes/skyblock/crafting/smoker.md)
     * [💎 Ingot Duplicator](gamemodes/skyblock/crafting/ingot-duplicator.md)
+  * [🛒 Shop](gamemodes/skyblock/shop.md)
 
 ## useful links
 

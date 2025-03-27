@@ -1,11 +1,10 @@
 ---
-icon: copy
 description: >-
   This page contains all the information you need about the Ingo Duplicator,
   including its features, usage, and benefits.
 ---
 
-# Ingot Duplicator
+# 💎 Ingot Duplicator
 
 ## <mark style="color:purple;">Information:</mark>
 

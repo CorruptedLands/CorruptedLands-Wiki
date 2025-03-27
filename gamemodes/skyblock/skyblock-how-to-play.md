@@ -1,7 +1,3 @@
----
-icon: question
----
-
-# Skyblock: How to play
+# ❓ Skyblock: How to play
 
 meow

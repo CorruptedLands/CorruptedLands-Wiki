@@ -8,7 +8,7 @@ coverY: 0
 
 ## <mark style="color:purple;">Join the Server (Java)</mark>
 
-1. Launch the <mark style="color:purple;">1.21.3</mark> version of Minecraft
+1. Launch the <mark style="color:purple;">1.21.4</mark> version of Minecraft
 2. Click Add Server in the Multiplayer Menu
 3. Enter the server details:\
    \-  Server Name: <mark style="color:purple;">Corrupted Lands</mark> \
