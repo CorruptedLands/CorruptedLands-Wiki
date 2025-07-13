@@ -15,6 +15,7 @@
   * [🎣 Fishing](gamemodes/skyblock/fishing/README.md)
     * [🐡 Fishing Association](gamemodes/skyblock/fishing/fishing-association.md)
     * [🐟 Fish](gamemodes/skyblock/fishing/fish.md)
+  * [💪 Skills](gamemodes/skyblock/skills.md)
   * [🔨 Crafting](gamemodes/skyblock/crafting/README.md)
     * [🔨 Workbench](gamemodes/skyblock/crafting/workbench.md)
     * [🍳 Smoker](gamemodes/skyblock/crafting/smoker.md)

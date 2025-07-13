@@ -4,20 +4,6 @@ description: >-
   page, including their types, uses, rarities, and how to obtain them.
 cover: ../../../.gitbook/assets/2025-01-08_00.13.47.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🌋 Generators
