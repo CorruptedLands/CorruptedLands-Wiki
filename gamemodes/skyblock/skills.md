@@ -33,3 +33,13 @@ The following table shows the required skill points for each hunting level and t
 <table><thead><tr><th width="79">LvL</th><th width="89">Point</th><th>Reward</th></tr></thead><tbody><tr><td>1</td><td>20</td><td>x1 Iron Sword</td></tr><tr><td>2</td><td>20</td><td>x1.2 XP when killing an Entity.</td></tr><tr><td>3</td><td>20</td><td>15% Chance for an extra drop when killing an entity.</td></tr><tr><td>4</td><td>20</td><td>15% Chance for extra souls when killing an entity.</td></tr><tr><td>5</td><td>60</td><td>x1.5 XP when killing an Entity.</td></tr><tr><td>6</td><td>20</td><td>33% Chance for an extra drop when killing an entity.</td></tr><tr><td>7</td><td>20</td><td>Recipe: Obsidium Sword</td></tr><tr><td>8</td><td>20</td><td>33% Chance for extra souls when killing an entity.</td></tr><tr><td>9</td><td>20</td><td>Killing entities will now drop stola.</td></tr><tr><td>10</td><td>20</td><td>Recipe: Soul Sword</td></tr></tbody></table>
 
 </details>
+
+<details>
+
+<summary>Farming Skill</summary>
+
+The following table shows the required skill points for each farming level and their rewards.
+
+<table><thead><tr><th width="79">LvL</th><th width="89">Point</th><th>Reward</th></tr></thead><tbody><tr><td>1</td><td>20</td><td>x1 Iron Hoe</td></tr><tr><td>2</td><td>20</td><td>Recipe: Bonemeal</td></tr><tr><td>3</td><td>20</td><td>5% Chance for an extra drop when breaking a crop.</td></tr><tr><td>4</td><td>20</td><td>Anti Trample the Farmland.</td></tr><tr><td>5</td><td>60</td><td>1 XP when breaking a Crop.</td></tr><tr><td>6</td><td>20</td><td>Recipe: Obsidium Hoe</td></tr><tr><td>7</td><td>20</td><td> 15% Chance for an extra drop when breaking a crop.</td></tr><tr><td>8</td><td>20</td><td>2 XP when breaking a Crop.</td></tr><tr><td>9</td><td>20</td><td>Breaking full grown crops will now drop stola.</td></tr><tr><td>10</td><td>20</td><td>Recipe: Crop Bags</td></tr></tbody></table>
+
+</details>
