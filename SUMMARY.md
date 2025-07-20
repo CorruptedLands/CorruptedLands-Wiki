@@ -18,7 +18,7 @@
   * [💪 Skills](gamemodes/skyblock/skills.md)
   * [🔨 Crafting](gamemodes/skyblock/crafting/README.md)
     * [🔨 Workbench](gamemodes/skyblock/crafting/workbench.md)
-    * [🍳 Smoker](gamemodes/skyblock/crafting/smoker.md)
+    * [🍳 Furnace](gamemodes/skyblock/crafting/furnace.md)
     * [💎 Ingot Duplicator](gamemodes/skyblock/crafting/ingot-duplicator.md)
   * [🛒 Shop](gamemodes/skyblock/shop.md)
 
