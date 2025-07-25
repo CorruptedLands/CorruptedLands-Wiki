@@ -41,7 +41,7 @@ The following table shows the required skill points for each hunting level and t
 The following table shows the required skill points for each cooking level and their rewards.\
 <mark style="color:yellow;">\* The yellow rewards apply only to mastered recipes</mark>
 
-<table><thead><tr><th width="79">LvL</th><th width="89">Point</th><th>Reward</th></tr></thead><tbody><tr><td>1</td><td>20</td><td>x1 Cake</td></tr><tr><td>2</td><td>20</td><td>Recipe: Cake</td></tr><tr><td>3</td><td>20</td><td>Reduce cooking time by 10%</td></tr><tr><td>4</td><td>20</td><td>Reduce cooking time by 25%</td></tr><tr><td>5</td><td>60</td><td><mark style="color:yellow;">2-5 XP when cooking a recipe.</mark></td></tr><tr><td>6</td><td>20</td><td>15% chance to add +1 Fuel </td></tr><tr><td>7</td><td>20</td><td> <mark style="color:yellow;">15% chance to refund a portion of the requirements.</mark></td></tr><tr><td>8</td><td>20</td><td><mark style="color:yellow;">5-10 XP when cooking a recipe.</mark></td></tr><tr><td>9</td><td>20</td><td>33% to add +1 Fuel </td></tr><tr><td>10</td><td>20</td><td><mark style="color:yellow;">25% chance for a double result.</mark></td></tr></tbody></table>
+<table><thead><tr><th width="79">LvL</th><th width="89">Point</th><th>Reward</th></tr></thead><tbody><tr><td>1</td><td>20</td><td>x1 Cake</td></tr><tr><td>2</td><td>20</td><td>Recipe: Cake</td></tr><tr><td>3</td><td>20</td><td>Reduce cooking time by 10%</td></tr><tr><td>4</td><td>20</td><td>Reduce cooking time by 25%</td></tr><tr><td>5</td><td>60</td><td><mark style="color:yellow;">2-5 XP when cooking a recipe.</mark></td></tr><tr><td>6</td><td>20</td><td>15% chance to add +1 Fuel </td></tr><tr><td>7</td><td>20</td><td> <mark style="color:yellow;">15% chance to refund a portion of the requirements.</mark></td></tr><tr><td>8</td><td>20</td><td><mark style="color:yellow;">5-10 XP when cooking a recipe.</mark></td></tr><tr><td>9</td><td>20</td><td>33% chance to add +1 Fuel </td></tr><tr><td>10</td><td>20</td><td><mark style="color:yellow;">25% chance for a double result.</mark></td></tr></tbody></table>
 
 </details>
 
@@ -51,6 +51,16 @@ The following table shows the required skill points for each cooking level and t
 
 The following table shows the required skill points for each farming level and their rewards.
 
-<table><thead><tr><th width="79">LvL</th><th width="89">Point</th><th>Reward</th></tr></thead><tbody><tr><td>1</td><td>20</td><td>x1 Iron Hoe</td></tr><tr><td>2</td><td>20</td><td>Recipe: Bonemeal</td></tr><tr><td>3</td><td>20</td><td>5% Chance for an extra drop when breaking a crop.</td></tr><tr><td>4</td><td>20</td><td>Anti Trample the Farmland.</td></tr><tr><td>5</td><td>60</td><td>1 XP when breaking a Crop.</td></tr><tr><td>6</td><td>20</td><td>Recipe: Obsidium Hoe</td></tr><tr><td>7</td><td>20</td><td> 15% Chance for an extra drop when breaking a crop.</td></tr><tr><td>8</td><td>20</td><td>2 XP when breaking a Crop.</td></tr><tr><td>9</td><td>20</td><td>Breaking full grown crops will now drop stola.</td></tr><tr><td>10</td><td>20</td><td>Recipe: Crop Bags</td></tr></tbody></table>
+<table><thead><tr><th width="79">LvL</th><th width="89">Point</th><th>Reward</th></tr></thead><tbody><tr><td>1</td><td>20</td><td>x1 Iron Hoe</td></tr><tr><td>2</td><td>20</td><td>Recipe: Bone Meal</td></tr><tr><td>3</td><td>20</td><td>5% Chance for an extra drop when breaking a crop.</td></tr><tr><td>4</td><td>20</td><td>Anti Trample the Farmland.</td></tr><tr><td>5</td><td>60</td><td>1 XP when breaking a Crop.</td></tr><tr><td>6</td><td>20</td><td>Recipe: Obsidium Hoe</td></tr><tr><td>7</td><td>20</td><td> 15% Chance for an extra drop when breaking a crop.</td></tr><tr><td>8</td><td>20</td><td>2 XP when breaking a Crop.</td></tr><tr><td>9</td><td>20</td><td>Breaking full grown crops will now drop stola.</td></tr><tr><td>10</td><td>20</td><td>Recipe: Crop Bags</td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary>Woodcutting Skill</summary>
+
+The following table shows the required skill points for each woodcutting level and their rewards.
+
+<table><thead><tr><th width="79">LvL</th><th width="89">Point</th><th>Reward</th></tr></thead><tbody><tr><td>1</td><td>20</td><td>x1 Iron Axe</td></tr><tr><td>2</td><td>20</td><td>Recipe: Shears</td></tr><tr><td>3</td><td>20</td><td>10% Chance to drop a stick when breaking a log.</td></tr><tr><td>4</td><td>20</td><td>1 XP when breaking Leaves/Logs.</td></tr><tr><td>5</td><td>60</td><td>15% Chance to drop a sapling when breaking leaves.</td></tr><tr><td>6</td><td>20</td><td>Recipe: Obsidium Axe</td></tr><tr><td>7</td><td>20</td><td>25% Chance to drop a stick when breaking a log.</td></tr><tr><td>8</td><td>20</td><td>2 XP when breaking Leaves/Logs.</td></tr><tr><td>9</td><td>20</td><td>Breaking leaves/logs will now drop stola.</td></tr><tr><td>10</td><td>20</td><td></td></tr></tbody></table>
 
 </details>
