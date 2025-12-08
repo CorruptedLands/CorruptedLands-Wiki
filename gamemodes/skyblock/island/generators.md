@@ -16,6 +16,12 @@ If you don't know how to create an island generator, be sure to follow the tutor
 
 * insert video with the tutorial here
 
+### <mark style="color:purple;">Nether Island</mark>
+
+Note that in the Nether, the ore generator works differently. You need x1 Soul Soil and x1 Blue Ice to create the generator. Both blocks can be found in the chest on the Nether island.
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption><p>Nether Island Generator</p></figcaption></figure>
+
 ### <mark style="color:purple;">Progress</mark>
 
 The generators feature a leveling system that can be upgraded from your island. Higher levels increase the chance of generating higher-value ores from your island's generator.
